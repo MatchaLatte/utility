@@ -1,1 +1,2 @@
-# utility
+## License
+MIT
